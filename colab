@@ -1,0 +1,4 @@
+git remote add origin https://github.com/akshitamuthayala/SE_Rep_1.git
+git branch -M main
+git push -u origin mainv
+
